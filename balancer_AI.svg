@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="balancer_AI.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.96835561"
+     inkscape:cx="383.12372"
+     inkscape:cy="99.653473"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path93479" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path93461" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect94138"
+       width="128.16704"
+       height="130.09088"
+       x="4.8722939"
+       y="126.52619"
+       ry="1.5727865" />
+    <rect
+       style="fill:#ff5555;stroke:#000000;stroke-width:0.660802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect66049"
+       width="104.44964"
+       height="20.978882"
+       x="14.463647"
+       y="232.38968"
+       ry="1.5727865" />
+    <rect
+       style="fill:#ff5555;stroke:#000000;stroke-width:0.660802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect44311"
+       width="53.685261"
+       height="31.791256"
+       x="16.127111"
+       y="134.86658"
+       ry="1.5727865" />
+    <rect
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.660802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect846"
+       width="79.656372"
+       height="33.105366"
+       x="32.373371"
+       y="20.444656"
+       ry="1.5727865" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="40.419346"
+       y="28.16647"
+       id="text4458"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="40.419346"
+         y="28.16647"
+         id="tspan4460">Player play style statistics, averaged</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="40.419346"
+         y="32.576183"
+         id="tspan17867">across last X battles:</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="40.419346"
+         y="36.985893"
+         id="tspan4462">facs/units chosen</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="40.419346"
+         y="41.395607"
+         id="tspan4464">K/D ratio with different units</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="40.419346"
+         y="45.805321"
+         id="tspan8963">K/D ratio overall with different maps</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="40.419346"
+         y="50.215031"
+         id="tspan4468">etc</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="40.419346"
+         y="54.624744"
+         id="tspan4466" /></text>
+    <rect
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.660802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect6413"
+       width="68.523003"
+       height="31.333118"
+       x="121.98743"
+       y="20.145079"
+       ry="1.5727865" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="130.0334"
+       y="27.866892"
+       id="text6427"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="130.0334"
+         y="27.866892"
+         id="tspan6425">Team games played</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="130.0334"
+         y="32.276604"
+         id="tspan6795">Team A players, Team B players, </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="130.0334"
+         y="36.686317"
+         id="tspan6797">map used, % awesome.</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.660802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect12653"
+       width="81.863274"
+       height="29.258646"
+       x="30.004898"
+       y="76.238701"
+       ry="1.5727865" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.98391px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.448794"
+       x="41.702587"
+       y="85.933884"
+       id="text13361"><tspan
+         sodipodi:role="line"
+         id="tspan13359"
+         style="stroke-width:0.448794"
+         x="41.702587"
+         y="85.933884">Player Classifier</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.448794"
+         x="41.702587"
+         y="93.413773"
+         id="tspan24423">(Deep Neural Net,</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.448794"
+         x="41.702587"
+         y="100.89366"
+         id="tspan36041">runs for each player)</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.660802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect28105"
+       width="74.040466"
+       height="8.5371199"
+       x="37.088638"
+       y="114.14512"
+       ry="1.5727865" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.368813"
+       x="21.776928"
+       y="12.365273"
+       id="text29311"><tspan
+         sodipodi:role="line"
+         id="tspan29309"
+         style="stroke-width:0.368813"
+         x="21.776928"
+         y="12.365273">Required datasets (for now assume those have tons of data ready to use)</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.660802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect29921"
+       width="183.02234"
+       height="53.81094"
+       x="20.117613"
+       y="6.1703725"
+       ry="1.5727865" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="40.111725"
+       y="119.21949"
+       id="text32337"><tspan
+         sodipodi:role="line"
+         id="tspan32335"
+         style="stroke-width:0.264583"
+         x="40.111725"
+         y="119.21949">Player Featore Vector (e.g. 10 floats)</tspan></text>
+    <rect
+       style="fill:#ff5555;stroke:#000000;stroke-width:0.660802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect36461"
+       width="101.56178"
+       height="39.981556"
+       x="19.920118"
+       y="178.12206"
+       ry="1.5727865" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.98391px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.448794"
+       x="24.412212"
+       y="192.58908"
+       id="text36469"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.448794"
+         x="24.412212"
+         y="192.58908"
+         id="tspan36493">Game Awesomeness Predictor</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.448794"
+         x="24.412212"
+         y="200.06897"
+         id="tspan36465">(likely a Recurrent Neural Net,</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.448794"
+         x="24.412212"
+         y="207.54886"
+         id="tspan36467">runs for two team vectors)</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.660802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect38784"
+       width="17.970909"
+       height="5.4083824"
+       x="21.315643"
+       y="149.69128"
+       ry="1.5727865" />
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.660802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect38885"
+       width="17.970909"
+       height="5.4083824"
+       x="21.315643"
+       y="154.98288"
+       ry="1.5727865" />
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.660802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect38887"
+       width="17.970909"
+       height="5.4083824"
+       x="21.315643"
+       y="160.27448"
+       ry="1.5727865" />
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.660802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect38889"
+       width="17.970909"
+       height="5.4083824"
+       x="49.724804"
+       y="149.60793"
+       ry="1.5727865" />
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.660802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect38891"
+       width="17.970909"
+       height="5.4083824"
+       x="49.724804"
+       y="154.89952"
+       ry="1.5727865" />
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.660802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect38893"
+       width="17.970909"
+       height="5.4083824"
+       x="49.724804"
+       y="160.19112"
+       ry="1.5727865" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="26.244444"
+       y="139.91197"
+       id="text39997"><tspan
+         sodipodi:role="line"
+         id="tspan39995"
+         style="stroke-width:0.264583"
+         x="26.244444"
+         y="139.91197">Candidate teams</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="27.502419"
+       y="147.52922"
+       id="text40815"><tspan
+         sodipodi:role="line"
+         id="tspan40813"
+         style="stroke-width:0.264583"
+         x="27.502419"
+         y="147.52922">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="57.120262"
+       y="147.12959"
+       id="text43635"><tspan
+         sodipodi:role="line"
+         id="tspan43633"
+         style="stroke-width:0.264583"
+         x="57.120262"
+         y="147.12959">B</tspan></text>
+    <rect
+       style="fill:#ff5555;stroke:#000000;stroke-width:0.598386;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect46935"
+       width="45.775826"
+       height="30.573568"
+       x="81.934776"
+       y="136.49129"
+       ry="1.5125446" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="84.192375"
+       y="144.00848"
+       id="text48215"><tspan
+         sodipodi:role="line"
+         id="tspan48213"
+         style="stroke-width:0.264583"
+         x="84.192375"
+         y="144.00848">Lobby metadata:</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="84.192375"
+         y="148.4182"
+         id="tspan48217">map dimensions</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="84.192375"
+         y="152.82791"
+         id="tspan49965">map sea/land/air</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="84.192375"
+         y="157.23763"
+         id="tspan49967">number of spectators</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="84.192375"
+         y="161.64734"
+         id="tspan49969">firepluk in game room</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="84.192375"
+         y="166.05705"
+         id="tspan52365">etc. etc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="19.101044"
+       y="237.29996"
+       id="text62245"><tspan
+         sodipodi:role="line"
+         id="tspan62243"
+         style="stroke-width:0.264583"
+         x="19.101044"
+         y="237.29996">Game Feature Vector, 3 floats that mean:</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="19.101044"
+         y="241.70967"
+         id="tspan82024"> 1. Game awesomeness % </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="19.101044"
+         y="246.11938"
+         id="tspan62247"> 2. Game expected duration </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="19.101044"
+         y="250.5291"
+         id="tspan63953"> 3. Team skill imabalance (which team is likely stronger)</tspan></text>
+    <rect
+       style="fill:#ff00ff;stroke:#000000;stroke-width:0.660802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.988344"
+       id="rect66249"
+       width="68.765991"
+       height="39.187603"
+       x="137.51625"
+       y="103.29755"
+       ry="1.5727865" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:57.2558;stroke-width:0.264583"
+       x="142.01065"
+       y="182.67589"
+       id="text67946"
+       transform="translate(1.9252751,-71.923445)"><tspan
+         x="142.01065"
+         y="182.67589"
+         id="tspan94457">Training process:
+</tspan><tspan
+         x="142.01065"
+         y="187.08561"
+         id="tspan94459">predict for all all games played 
+</tspan><tspan
+         x="142.01065"
+         y="191.49532"
+         id="tspan94461">so far with GAP what their </tspan><tspan
+         x="142.01065"
+         y="195.90503"
+         id="tspan94463">feature vectors would be.
+</tspan><tspan
+         x="142.01065"
+         y="200.31475"
+         id="tspan94465">Check if those match known </tspan><tspan
+         x="142.01065"
+         y="204.72446"
+         id="tspan94467">stats
+</tspan><tspan
+         x="142.01065"
+         y="209.13417"
+         id="tspan94469">Compute loss for backprop</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow2Lend)"
+       d="m 64.352698,53.661611 1.750844,20.981543"
+       id="path93456" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.558856;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 69.616614,104.59078 0.918751,11.01001"
+       id="path93814" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 160.38853,51.501429 8.90989,51.058201"
+       id="path93816"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 157.86711,104.13741 -8.90989,-51.0582"
+       id="path93917"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="M 137.03747,124.00845 112.94773,89.696528"
+       id="path93919"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 151.22133,143.77717 -28.3951,50.2803"
+       id="path93921"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.558856;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 49.724804,165.5995 0.918751,11.01001"
+       id="path94355" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.558856;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 64.334595,218.24161 0.918751,11.01001"
+       id="path94357" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.558856;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="M 99.922306,166.45559 99.003555,177.4656"
+       id="path94359" />
+  </g>
+</svg>
